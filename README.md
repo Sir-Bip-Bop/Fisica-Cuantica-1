@@ -6,12 +6,22 @@
 
 - [Fisica-Cuantica-1](#fisica-cuantica-1)
 - [Tabla de contenidos](#tabla-de-contenidos)
+- [Que es esto](#que-es-esto)
 - [Archivos](#archivos)
 - [Ramas](#ramas)
 - [Contribuir](#contribuir)
   - [Contribuidores](#contribuidores)
 - [FAQ](#faq)
 
+# Que es esto
+>La idea de este proyecto es juntarnos para desarollar los programas de cálculo numérico de Física Cuántica 1. Compartirlos entre nosotros y ayudarnos. 
+
+El [código](#archivos) es abierto, todos podéis descargarlo y utilizarlo. Y también podéis [contribuir](#contribuir).
+
+Para dudas sobre este proyecto es altamente recomendable pertenecer al servidor de discord: 
+>**https://discord.gg/N48TNVF**
+
+Si no, envía un mensaje por GitHub.
 
 # Archivos
 - [Archivos de Elías](Archivos%20de%20Elias/)
