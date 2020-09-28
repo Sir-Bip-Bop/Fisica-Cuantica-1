@@ -25,6 +25,8 @@ Si no, envía un mensaje por GitHub.
 
 # Archivos
 - [Archivos de Elías](Archivos%20de%20Elias/)
+- [Archivos de Unai](Archivos%20de%20Unai/)
+- [Archivos de Jose](Archivos%20de%20Jose/)
 - [gitignore](.gitignore)
 - [README.md](README.md)
 
@@ -37,8 +39,7 @@ Si no, envía un mensaje por GitHub.
 * Descargarse una rama del proyecto (fork), hacer una mejora y pedir su admisión a través de GitHub.
 * Contactar por correo a **unaileria@gmail.com**
 
-
 ## Contribuidores
 >- Unai Lería Fortea
-
+>- Jose Segovia Burillo
 # FAQ
