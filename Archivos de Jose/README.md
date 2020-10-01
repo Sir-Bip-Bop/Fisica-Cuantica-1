@@ -1,1 +1,1 @@
-# Jose
+# Explicaciones para entender los programas de Jose
